@@ -64,3 +64,7 @@ Backup_*
 # Python bytecode and cache files
 __pycache__/
 *.py[cod]
+/.vs
+/FirstAspCore/.vs/FirstAspCore
+/FirstAspCore/FirstAspCore/bin/Debug/net8.0
+/FirstAspCore/FirstAspCore/obj
